@@ -14,7 +14,7 @@ const Login = () => {
                     <div className='flex flex-col justify-center items-center font-sans font-semibold text-wrap text-2xl'>
                         <h1>Welcome</h1>
                         <h1>To</h1>
-                        <h1 className='text-center'>{'Demo Hopital Name'}</h1>
+                        <h1 className='text-center'>{'Demo Hospital Name'}</h1>
                     </div>
 
                     {/* login form */}
